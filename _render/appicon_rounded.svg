@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024">
+
+
+    <defs>
+        <clipPath id="icon-clip">
+            <rect x="0" y="0" width="1024" height="1024" rx="100" ry="100" />
+        </clipPath>
+    </defs> 
+
+    <g transform="translate(512 512) scale(1.0) translate(-512 -512)">
+        <g clip-path="url(#icon-clip)">
+            <image href="appicon_1024.png" x="0" y="0" width="1024" height="1024"/>
+        </g>
+    </g>
+ 
+</svg>
