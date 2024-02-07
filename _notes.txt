@@ -3,7 +3,7 @@ https://developer.apple.com/design/resources/#product-bezels
 inkscape App_Store_Badge.svg -w 240 -o App_Store_Badge.png
 convert App_Store_Badge.png ../App_Store_Badge.webp
 
-inkscape appicon_rounded.svg -w 512 -o appicon_rounded.png
+inkscape appicon_rounded.svg -w 128 -o appicon_rounded.png
 convert appicon_rounded.png ../appicon_rounded.webp
 
 inkscape screenshot.svg -o screenshot.png
